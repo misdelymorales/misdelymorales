@@ -1,12 +1,8 @@
-<h2 align="center" >
-    Hola, bienvenid@ a mi perfil, soy Misdely  
-</h2>
-
-<h3 align="center" >
-    < Front-End Developer >
-</h3>
-
---------------
+<h1 align="center">
+Bienvenid@ a mi perfil
+<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monserrat&size=25&pause=1000&color=D536F7&center=true&vCenter=true&multiline=true&width=435&lines=Soy+Misdely" alt="Typing SVG" /></a>
+</h1>
 
 ✨ Desarrolladora Front-End de Laboratoria e Ingeniera Petroquímica, apasionada por la calidad que logra el control oportuno de los procesos.
 
